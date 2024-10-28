@@ -51,10 +51,6 @@ streamlit run app.py
 
 ## Usage
 
-### Navigate to the App
-
-Open your web browser and go to [**Vinometrics**](http://mainpy-ftbfy4zmtcvfkaycbjruu4.streamlit.app) to view the app.
-
 ### Select a Question
 
 Use the sidebar to select a question or topic of interest. The app will display relevant insights and visualizations based on your selection.
@@ -68,6 +64,3 @@ The main area of the app will update to show visualizations and information rela
 
 If you would like to contribute to the development of VinoMetrics, please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the existing style and passes all tests.
 
-## Contact
-
-For any questions or feedback, please contact [batar.mehmet@outlook.com].
